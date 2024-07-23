@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="login">Log in</string>
+    <string name="register">Sign Up</string>
+    <string name="newUser">New Here?</string>
+    <string name="createAccount">Create Account</string>
+    <string name="oldUser">Already have an account?</string>
+    <string name="submissionsPanel">Submissions Panel</string>
+    <string name="signOut">Sign Out</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="goBack">Go Back</string>
+    <string name="pointOfInterest">Point of Interest</string>
+    <string name="submit">Submit</string>
+    <string name="chooseImage">Choose an Image</string>
+    <string name="name">Title</string>
+    <string name="author">Author</string>
+    <string name="distance">Distance:</string>
+    <string name="meters">meters</string>
+    <string name="credits">Credits</string>
+    <string name="errorPoI">Point of Interest already exists</string>
+    <string name="errorCategory">Category already exists</string>
+    <string name="errorLocation">Location already exists</string>
+</resources>

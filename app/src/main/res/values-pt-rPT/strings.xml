@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="login">Entrar</string>
+    <string name="register">Registar</string>
+    <string name="newUser">Primeira vez?</string>
+    <string name="createAccount">Criar Conta</string>
+    <string name="oldUser">Já tem uma conta?</string>
+    <string name="submissionsPanel">Painel de Submissões</string>
+    <string name="signOut">Sair</string>
+    <string name="location">Localização</string>
+    <string name="description">Descrição</string>
+    <string name="category">Categoria</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="goBack">Voltar</string>
+    <string name="pointOfInterest">Local</string>
+    <string name="submit">Submeter</string>
+    <string name="chooseImage">Escolha uma Imagem</string>
+    <string name="name">Nome</string>
+    <string name="author">Autor</string>
+    <string name="distance">Distância:</string>
+    <string name="meters">metros</string>
+    <string name="credits">Créditos</string>
+    <string name="errorPoI">Ponto de Interesse já existe</string>
+    <string name="errorCategory">Categoria já existe</string>
+    <string name="errorLocation">Localização já existe</string>
+</resources>
